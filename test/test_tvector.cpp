@@ -1,5 +1,5 @@
-#include <gtest.h>
-#include "tmatrix.h" // Убедитесь, что путь к вашему заголовочному файлу правильный
+#include <gtest/gtest.h>
+#include "tmatrix.h"
 
 TEST(TDynamicVector, can_create_vector_with_positive_length)
 {

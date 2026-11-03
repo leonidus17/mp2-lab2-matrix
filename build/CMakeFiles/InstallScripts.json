@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/s26380768/source/repos/mp2-lab2-matrix/build/cmake_install.cmake",
+		"C:/Users/s26380768/source/repos/mp2-lab2-matrix/build/_deps/googletest-build/cmake_install.cmake",
+		"C:/Users/s26380768/source/repos/mp2-lab2-matrix/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

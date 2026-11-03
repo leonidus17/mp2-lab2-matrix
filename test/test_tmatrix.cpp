@@ -1,8 +1,7 @@
-#include <gtest.h>
+#include <gtest/gtest.h>
 #include "tmatrix.h"
 #include <sstream>
 
-// --- Конструкторы ---
 
 TEST(DynamicMatrixTest, DefaultConstructor) {
     TDynamicMatrix<int> m(3);

@@ -1,0 +1,8 @@
+C:/Users/s26380768/source/repos/mp2-lab2-matrix/build/CMakeFiles/sample_prog.dir
+C:/Users/s26380768/source/repos/mp2-lab2-matrix/build/CMakeFiles/test_prog.dir
+C:/Users/s26380768/source/repos/mp2-lab2-matrix/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/s26380768/source/repos/mp2-lab2-matrix/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/s26380768/source/repos/mp2-lab2-matrix/build/_deps/googletest-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/s26380768/source/repos/mp2-lab2-matrix/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir
+C:/Users/s26380768/source/repos/mp2-lab2-matrix/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir
+C:/Users/s26380768/source/repos/mp2-lab2-matrix/build/_deps/googletest-build/googletest/CMakeFiles/ALL_BUILD.dir
